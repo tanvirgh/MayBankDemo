@@ -21,7 +21,7 @@
 ### Clone the Repository
 
 
-git clone [https://github.com/tanvirgh/AccordDemo.git]
+git clone [(https://github.com/tanvirgh/MayBankDemo.git)]
 
 After clone prepare the database using the sql script provided in application classpath 
 Location : com.accord.repository.sql  file name : sample-database.sql
