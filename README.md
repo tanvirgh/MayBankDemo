@@ -3,7 +3,6 @@
 ## Technologies Used
 
 - **Spring Boot**: The core framework
-- **Spring Data JPA**: For database interactions
 - **Mysql Database**:  database for development and testing
 - **Maven**: For project management and dependency management
 - **Lombok**: To reduce boilerplate code
