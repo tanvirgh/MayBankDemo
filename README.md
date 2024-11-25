@@ -101,4 +101,4 @@ Where it's used:
 The configuration encapsulates each step of the batch process (reader, writer, processor) as a command that the Step executes in a predefined order.
 How it's implemented:
 Each component (reader, writer) performs a specific operation, and the Step coordinates their execution.
-"# MayBankDemo" 
+
