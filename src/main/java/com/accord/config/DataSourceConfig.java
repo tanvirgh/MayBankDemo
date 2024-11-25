@@ -23,7 +23,7 @@ public class DataSourceConfig {
     @Bean
     public DataSource dataSource() {
         return DataSourceBuilder.create()
-                .url("jdbc:mysql://localhost:3306/account-database")
+                .url("jdbc:mysql://localhost:3306/account_database")
                 .username("root")
                 .password("root")
                 .driverClassName("com.mysql.cj.jdbc.Driver")
