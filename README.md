@@ -39,7 +39,7 @@ You can run the application using the following command:
 mvn spring-boot:run
 
 ### UML diagram
-the UML diagram image will be found under projectrool/uml folder.
+the UML diagram image will be found under projectroot/uml folder.
 
 ### Logging
 Request and response logs are stored in the logs directory under the project root. Ensure the directory exists, or it will be created automatically when you run the application.
